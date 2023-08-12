@@ -1,5 +1,6 @@
 .sidebar{
-    flex:0.275;
+    /* flex:0.275; */
+    max-width:320px;
     height: 100vh;
     background-color: black;
 
