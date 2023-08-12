@@ -1,0 +1,19 @@
+.departments{
+    display: flex;
+}
+
+.department-area{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2rem auto;
+    flex:0.8;
+}
+
+
+.department-unit{
+    background-color: #ededed;
+    padding:1rem;
+    margin:1rem;
+    cursor: pointer;
+}

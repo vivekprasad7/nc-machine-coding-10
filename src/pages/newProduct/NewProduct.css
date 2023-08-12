@@ -1,0 +1,8 @@
+.new-product{
+    display: flex;
+}
+
+.np-form{
+    display: flex;
+    flex-direction: column;
+}
