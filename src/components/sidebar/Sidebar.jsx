@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom'
 export const Sidebar = () => {
 
     const navStyles = ({isActive}) => ({
-        backgroundColor: isActive ? "rgb(255, 238, 219)" : "",
+        backgroundColor: isActive ? "rgb(34, 24, 70)" : "",
         borderRadius: isActive ? "30px" : "",
       })
 

@@ -12,17 +12,17 @@ export const Home = () => {
 
             <div className='dashboard-unit'>
                 <h3>{totalStock}</h3>
-                <h3>Total Stock</h3>
+                <h4>Total Stock</h4>
             </div>
 
             <div className='dashboard-unit'>
                 <h3>{totalDelivered}</h3>
-                <h3>Total Delivered</h3>
+                <h4>Total Delivered</h4>
             </div>
 
             <div className='dashboard-unit'>
                 <h3>{lowStockItems}</h3>
-                <h3>Low Stock Items</h3>
+                <h4>Low Stock Items</h4>
             </div>
 
         </div>

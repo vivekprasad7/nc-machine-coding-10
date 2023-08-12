@@ -13,7 +13,9 @@
 
 .department-unit{
     background-color: #ededed;
-    padding:1rem;
+    padding:1.5rem;
     margin:1rem;
     cursor: pointer;
+    border-radius:10px;
+    width: 200px;
 }

@@ -1,3 +1,25 @@
 .home{
     display: flex;
+
+}
+
+.dashboard{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+    padding:1.5rem;
+    margin:auto;
+}
+
+.dashboard-unit{
+    background-color: #ededed;
+    margin: 1rem;
+    padding:2rem;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.dashboard-unit h3{
+    color:blue;
 }

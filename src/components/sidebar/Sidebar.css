@@ -6,7 +6,7 @@
 }
 
 .site-title{
-    background-color: white;
+    background-color: black;
     padding: 0 0.5rem;
     border-radius: 20px;
     margin: 2rem;
@@ -24,8 +24,8 @@
     padding:0.5rem;
     border-radius: 20px;
     margin: 2rem;
-   background-color: #fff;
-    color:black;
+   background-color:black;
+    color:#fff;
     text-align: center;
     border: solid 1px #ededed;
     display: flex;
@@ -52,7 +52,7 @@
   .side-nav:hover {
     background-color: #e8f5fe;
     /* background-color:rgb(255, 226, 226); */
-    background-color:rgb(255, 238, 219);
+    background-color:rgb(34, 24, 70);
 
 
     border-radius: 30px;
